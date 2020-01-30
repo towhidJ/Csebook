@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">CseBook</string>
+
+
+    <string-array name="firstList">
+        <item>Programming in Ansi C</item>
+        <item>কম্পিউটার প্রোগ্রামিং</item>
+        <item>প্রোগ্রামিংয়ে হাতেখড়ি</item>
+        <item>Introduction To computers</item>
+        <item>Accounting Principles</item>
+        <item>Differential Calculas</item>
+    </string-array>
+
+    <string-array name="firstSubList">
+        <item>By- E Balagurusamy</item>
+        <item>তামিম শাহরিয়ার সুবিন</item>
+        <item>তামিম শাহরিয়ার সুবিন</item>
+        <item>By- peter-norton</item>
+        <item>By-Jerry J. Weygandt</item>
+        <item>GEORGE A. OSBORNE, S.B</item>
+    </string-array>
+
+    <string-array name="secondList">
+        <item>Programming With c++</item>
+        <item>Data Structure With c</item>
+        <item>Advance Engineering Mathematics(Math-II)</item>
+        <item>Professional Ethics of Computing</item>
+        <item>Basic Electrical Circuit</item>
+    </string-array>
+
+    <string-array name="secondSubList">
+        <item>By- JOHN R. Hubbard Ph.D</item>
+        <item>By- Seymour Lipschutz</item>
+        <item>By-Hk Das</item>
+        <item>By- Charles P.Pfleger</item>
+        <item>By- B.L thereja</item>
+    </string-array>
+
+    <string-array name="thirdList">
+        <item>Discrete Mathematics</item>
+        <item>Basic Electronics</item>
+        <item>Advance Engineering Mathematics(Math-III)</item>
+        <item>Java Programming</item>
+        <item>Digital Logic Design</item>
+    </string-array>
+
+    <string-array name="thirdSubList">
+        <item>By- Kenneth H.Rosen</item>
+        <item>By- R.L Boyulestad and Louis Nashelski</item>
+        <item>By-Hk Das</item>
+        <item>By- Ivor Horton</item>
+        <item>By-M.Morris Meno</item>
+    </string-array>
+
+    <string-array name="fourdList">
+        <item>Computer Algorithms</item>
+        <item>Beginning Php5(INC)</item>
+        <item>Advance Engineering Mathematics(Math-IV)</item>
+        <item>Computer Architecture</item>
+        <item>Numerical Analysis</item>
+    </string-array>
+
+    <string-array name="fourSubList">
+        <item>................</item>
+        <item>................</item>
+        <item>................</item>
+        <item>................</item>
+        <item>................</item>
+    </string-array>
+
+    <string-array name="fiveList">
+        <item>Database Systems</item>
+        <item>Data Communication &amp; Networking</item>
+        <item>Operating Systems</item>
+        <item>System analysis and Design</item>
+        <item>The INTEL Microprocessors</item>
+    </string-array>
+
+    <string-array name="fiveSubList">
+        <item>................</item>
+        <item>................</item>
+        <item>................</item>
+        <item>................</item>
+        <item>................</item>
+    </string-array>
+
+    <string-array name="sixList">
+        <item>Computer Networks</item>
+        <item>Computer Modeling and Simulation</item>
+        <item>The INTEL Microprocessors(CPI)</item>
+        <item>Introduction to Compiler</item>
+        <item>Theory of Computing</item>
+        <item>Software Engineering</item>
+    </string-array>
+
+    <string-array name="sixSubList">
+        <item>................</item>
+        <item>................</item>
+        <item>................</item>
+        <item>................</item>
+        <item>................</item>
+        <item>................</item>
+    </string-array>
+    <string-array name="sevenList">
+        <item>Fuzzy Logic and Neural Networks</item>
+        <item>Artificial Intelligence</item>
+        <item>Telecommunication Engineering</item>
+        <item>Digital System Design</item>
+        <item>Cryptography and Network security</item>
+    </string-array>
+
+    <string-array name="sevenSubList">
+        <item>................</item>
+        <item>................</item>
+        <item>................</item>
+        <item>................</item>
+        <item>................</item>
+    </string-array>
+    <string-array name="eightList">
+        <item>Computer Graphics</item>
+        <item>Digital Signal Processing</item>
+    </string-array>
+
+    <string-array name="eightSubList">
+        <item>................</item>
+        <item>................</item>
+    </string-array>
+
+</resources>

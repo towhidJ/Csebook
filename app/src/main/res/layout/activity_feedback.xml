@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FeedbackActivity"
+    app:cardElevation="10dp">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/nameId"
+            android:hint="Your Name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:textColor="@color/colorBlack"
+            android:textColorHint="@color/colorBlack"
+            android:textSize="20sp"
+            android:fontFamily="monospace"
+            app:met_singleLineEllipsis="true"
+            app:met_baseColor="@color/colorBlack"
+            app:met_floatingLabel="highlight"
+            app:met_primaryColor="@color/colorBlack"
+            />
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/phoneId"
+            android:hint="Phone No"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:textColor="@color/colorBlack"
+            android:textColorHint="@color/colorBlack"
+            android:textSize="20sp"
+            android:fontFamily="monospace"
+            app:met_singleLineEllipsis="true"
+            app:met_baseColor="@color/colorBlack"
+            app:met_floatingLabel="highlight"
+            app:met_primaryColor="@color/colorBlack"
+            />
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/emailId"
+            android:hint="Your Email..."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:textColor="@color/colorBlack"
+            android:textColorHint="@color/colorBlack"
+            android:textSize="20sp"
+            android:fontFamily="monospace"
+            app:met_singleLineEllipsis="true"
+            app:met_baseColor="@color/colorBlack"
+            app:met_floatingLabel="highlight"
+            app:met_primaryColor="@color/colorBlack"
+            />
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/messageId"
+            android:hint="Book name &amp; Author name..."
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:inputType="text"
+            android:textColor="@color/colorBlack"
+            android:textColorHint="@color/colorBlack"
+            android:textSize="20sp"
+            android:fontFamily="monospace"
+            app:met_singleLineEllipsis="true"
+            app:met_baseColor="@color/colorBlack"
+            app:met_floatingLabel="highlight"
+            app:met_primaryColor="@color/colorBlack"
+            />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

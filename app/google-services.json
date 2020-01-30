@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1003712012596",
+    "firebase_url": "https://csebook-24796.firebaseio.com",
+    "project_id": "csebook-24796",
+    "storage_bucket": "csebook-24796.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003712012596:android:57078b170cc1f7f0fb0561",
+        "android_client_info": {
+          "package_name": "com.example.csebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003712012596-49c48equtiui3kof2fur3p90vpa63fdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.csebook",
+            "certificate_hash": "3eff82fc788c8375378da09f3895663f8c32aa2c"
+          }
+        },
+        {
+          "client_id": "1003712012596-dsrf3s7c1o42ss14f3pku3cp8198p08m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWj5OqwtNZUMWKEZ2J0utoWsYiSdjB5Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003712012596-dsrf3s7c1o42ss14f3pku3cp8198p08m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
